@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/nptin1996/ASM2.git/static/css/main.6aac89cf.css",
+    "main.js": "/nptin1996/ASM2.git/static/js/main.1bd55464.js",
+    "index.html": "/nptin1996/ASM2.git/index.html",
+    "main.6aac89cf.css.map": "/nptin1996/ASM2.git/static/css/main.6aac89cf.css.map",
+    "main.1bd55464.js.map": "/nptin1996/ASM2.git/static/js/main.1bd55464.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6aac89cf.css",
+    "static/js/main.1bd55464.js"
+  ]
+}

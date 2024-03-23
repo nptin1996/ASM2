@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/ASM2/static/css/main.6aac89cf.css",
-    "main.js": "/ASM2/static/js/main.9839f036.js",
-    "index.html": "/ASM2/index.html",
-    "main.6aac89cf.css.map": "/ASM2/static/css/main.6aac89cf.css.map",
-    "main.9839f036.js.map": "/ASM2/static/js/main.9839f036.js.map"
+    "main.css": "/nptin1996/ASM2.git/static/css/main.6aac89cf.css",
+    "main.js": "/nptin1996/ASM2.git/static/js/main.f7b14ffd.js",
+    "index.html": "/nptin1996/ASM2.git/index.html",
+    "main.6aac89cf.css.map": "/nptin1996/ASM2.git/static/css/main.6aac89cf.css.map",
+    "main.f7b14ffd.js.map": "/nptin1996/ASM2.git/static/js/main.f7b14ffd.js.map"
   },
   "entrypoints": [
     "static/css/main.6aac89cf.css",
-    "static/js/main.9839f036.js"
+    "static/js/main.f7b14ffd.js"
   ]
 }
